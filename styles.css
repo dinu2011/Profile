@@ -1,0 +1,29 @@
+body{
+  background-color: Black;
+}
+hr{
+border-style: none;
+border-top-style: none;
+border-color : grey;
+border-width: 5px;
+}
+h1{
+  font-style: italic;
+  color: White;
+}
+
+h4{
+  font-style: italic;
+  color: 	#00ced1;
+}
+p{
+  color: lightgreen;
+}
+
+li{
+  color: white;
+}
+
+td{
+  color: White;
+}

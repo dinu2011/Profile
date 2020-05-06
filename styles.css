@@ -77,13 +77,20 @@ a:hover{
 
 .topcloud {
   position: absolute;
-  left: 900px;
+  left: 60%;
   top: 50px;
 }
-
+.tree1{
+  position: absolute;
+  left: 15%;
+}
 .tree2 {
   position: absolute;
   right: 200px;
+}
+.mountain{
+  position: relative;
+  right: 5%;
 }
 
 .techimage{
